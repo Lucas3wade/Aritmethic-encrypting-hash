@@ -18,4 +18,3 @@ def hash_function(first_file, second_file):
         print("The same hashes")
     else:
         print("Not the same hashes")
-Basic aritmethic operations, symmetric encrypting and decrypting text from text files, hash function.

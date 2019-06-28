@@ -1,5 +1,5 @@
 from arithmetic import arithmetic_example
-from hash import hash_function
+from hash_function import hash_function
 from symmetric_decrypting import symmetric_decrypting
 from symmetric_encrypting import symmetric_encrypting
 
